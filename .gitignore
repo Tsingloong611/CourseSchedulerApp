@@ -1,0 +1,26 @@
+# Android Studio specific
+.idea/
+.gradle/
+local.properties
+
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Gradle files
+.gradle/
+build/
+out/
+captures/
+
+# Lint and other files
+lint/intermediates/
+lint/vitalAnalyzeRelease/
+
+# Key and sensitive files
+*.jks
+*.keystore
+
+# Others
+app/release/
