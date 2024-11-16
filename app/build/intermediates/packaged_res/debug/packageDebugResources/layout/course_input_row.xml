@@ -1,0 +1,87 @@
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="8dp"
+    android:background="?attr/selectableItemBackground">
+
+    <!-- 行号框 -->
+    <TextView
+        android:id="@+id/tvRowNumber"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:padding="8dp"
+        android:background="@drawable/input_background"
+        android:text="1"
+        android:textSize="16sp"
+        android:textColor="?android:textColorSecondary"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintWidth_percent="0.1"
+        android:layout_marginEnd="8dp" />
+
+    <!-- 课程名称输入框 -->
+    <EditText
+        android:id="@+id/etCourseName"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:hint="课程名称"
+        android:inputType="text"
+        android:padding="8dp"
+        android:background="@drawable/input_background"
+        android:textSize="16sp"
+        app:layout_constraintStart_toEndOf="@id/tvRowNumber"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintWidth_percent="0.25"
+        android:layout_marginEnd="8dp" />
+
+    <!-- 班级编号输入框 -->
+    <EditText
+        android:id="@+id/etSection"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:hint="班级编号"
+        android:inputType="text"
+        android:padding="8dp"
+        android:background="@drawable/input_background"
+        android:textSize="16sp"
+        app:layout_constraintStart_toEndOf="@id/etCourseName"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintWidth_percent="0.2"
+        android:layout_marginEnd="8dp" />
+
+    <!-- 时间段输入框 -->
+    <EditText
+        android:id="@+id/etTimeSlots"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:hint="时间段(用&amp;分隔)"
+        android:inputType="text"
+        android:padding="8dp"
+        android:background="@drawable/input_background"
+        android:textSize="16sp"
+        app:layout_constraintStart_toEndOf="@id/etSection"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintWidth_percent="0.35"
+        android:layout_marginEnd="8dp" />
+
+    <!-- 删除按钮 -->
+    <Button
+        android:id="@+id/btnDeleteRow"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:text="删除"
+        android:padding="8dp"
+        android:textSize="16sp"
+        app:layout_constraintStart_toEndOf="@id/etTimeSlots"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintWidth_percent="0.1" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

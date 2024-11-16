@@ -1,0 +1,2 @@
+xyz.tsingloong.courseschedulerapp.test:style/WhiteBackgroundTheme = 0x7f010001
+xyz.tsingloong.courseschedulerapp.test:style/WhiteBackgroundDialogTheme = 0x7f010000

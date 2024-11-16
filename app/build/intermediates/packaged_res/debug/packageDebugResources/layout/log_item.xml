@@ -1,0 +1,31 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp"
+    android:background="@drawable/log_item_background">
+
+    <TextView
+        android:id="@+id/logDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="日期: 2024-11-16"
+        android:textSize="14sp"
+        android:layout_marginBottom="4dp" />
+
+    <TextView
+        android:id="@+id/logInput"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="输入: 示例输入数据"
+        android:textSize="14sp"
+        android:layout_marginBottom="4dp" />
+
+    <TextView
+        android:id="@+id/logResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="结果: 示例结果数据"
+        android:textSize="14sp" />
+</LinearLayout>

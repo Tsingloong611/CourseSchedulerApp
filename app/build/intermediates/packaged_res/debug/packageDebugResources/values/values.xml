@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="error_color">#FF0000</color>
+    <color name="gray">#B0B0B0</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="delete_button_min_width">60dp</dimen>
+    <dimen name="row_number_text_size">16sp</dimen>
+    <string name="app_name">CourseSchedulerApp</string>
+    <style name="Base.Theme.CourseSchedulerApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.CourseSchedulerApp" parent="Base.Theme.CourseSchedulerApp"/>
+</resources>

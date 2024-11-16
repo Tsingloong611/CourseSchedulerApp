@@ -1,0 +1,154 @@
+[
+    {
+        "merged": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-debug-31:\\drawable_search_input_background.xml.flat",
+        "source": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-main-33:\\drawable\\search_input_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-debug-31:\\drawable_ic_clear.xml.flat",
+        "source": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-main-33:\\drawable\\ic_clear.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-debug-31:\\drawable_ic_export.xml.flat",
+        "source": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-main-33:\\drawable\\ic_export.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-debug-31:\\layout_activity_about.xml.flat",
+        "source": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-main-33:\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-debug-31:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-main-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-debug-31:\\drawable_log_item_background.xml.flat",
+        "source": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-main-33:\\drawable\\log_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-debug-31:\\drawable_input_background_error.xml.flat",
+        "source": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-main-33:\\drawable\\input_background_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-main-33:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-debug-31:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-main-33:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-debug-31:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-main-33:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-debug-31:\\drawable_toast_background.xml.flat",
+        "source": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-main-33:\\drawable\\toast_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-main-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-main-33:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-debug-31:\\layout_activity_result.xml.flat",
+        "source": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-main-33:\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-main-33:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-main-33:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-debug-31:\\layout_log_item.xml.flat",
+        "source": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-main-33:\\layout\\log_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-debug-31:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-main-33:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "xyz.tsingloong.courseschedulerapp-debug-31:/layout_activity_main.xml.flat",
+        "source": "xyz.tsingloong.courseschedulerapp-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-debug-31:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-main-33:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-debug-31:\\layout_custom_toast.xml.flat",
+        "source": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-main-33:\\layout\\custom_toast.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-debug-31:\\drawable_input_background.xml.flat",
+        "source": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-main-33:\\drawable\\input_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-debug-31:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-main-33:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-debug-31:\\layout_activity_logs.xml.flat",
+        "source": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-main-33:\\layout\\activity_logs.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-debug-31:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-main-33:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-debug-31:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-main-33:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-debug-31:\\layout_course_input_row.xml.flat",
+        "source": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-main-33:\\layout\\course_input_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-debug-31:\\drawable_ic_toast_icon.xml.flat",
+        "source": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-main-33:\\drawable\\ic_toast_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Tsing_loong\\.gradle\\daemon\\8.9\\xyz.tsingloong.courseschedulerapp-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
+    }
+]

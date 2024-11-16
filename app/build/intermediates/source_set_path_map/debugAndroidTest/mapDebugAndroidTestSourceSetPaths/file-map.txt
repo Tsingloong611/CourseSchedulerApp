@@ -1,0 +1,5 @@
+xyz.tsingloong.courseschedulerapp.test.app-core-1.6.1-0 C:\Users\Tsing_loong\.gradle\caches\8.9\transforms\bad94a51b596922b70a1ebd82f46d634\transformed\core-1.6.1\res
+xyz.tsingloong.courseschedulerapp.test.app-androidTest-1 D:\AndroidStudioProjects\CourseSchedulerApp\app\build\generated\res\resValues\androidTest\debug
+xyz.tsingloong.courseschedulerapp.test.app-mergeDebugAndroidTestResources-2 D:\AndroidStudioProjects\CourseSchedulerApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+xyz.tsingloong.courseschedulerapp.test.app-mergeDebugAndroidTestResources-3 D:\AndroidStudioProjects\CourseSchedulerApp\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+xyz.tsingloong.courseschedulerapp.test.app-debugAndroidTest-4 D:\AndroidStudioProjects\CourseSchedulerApp\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
