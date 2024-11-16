@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="row_number_text_size">16sp</dimen>
+    <dimen name="delete_button_min_width">60dp</dimen>
+</resources>

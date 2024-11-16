@@ -1,0 +1,93 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="#FFFFFF">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- 应用标题 -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="关于课程安排应用"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:textColor="#000000"
+            android:layout_marginBottom="24dp" />
+
+        <!-- 应用简介 -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="本应用旨在帮助用户通过自动化的方式优化课程安排，减少早八课程，并避免时间冲突。"
+            android:textSize="16sp"
+            android:lineSpacingExtra="4dp"
+            android:textColor="#333333"
+            android:layout_marginBottom="24dp" />
+
+        <!-- 功能简介标题 -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="功能简介"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="#000000"
+            android:layout_marginBottom="12dp" />
+
+        <!-- 功能简介内容 -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1. 动态添加课程\n2. 提交课程安排，自动优化\n3. 查看优化结果及日志\n4. 简单易用的用户界面"
+            android:textSize="16sp"
+            android:lineSpacingExtra="6dp"
+            android:textColor="#333333"
+            android:layout_marginBottom="24dp" />
+
+        <!-- 联系方式 -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="联系我们"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="#000000"
+            android:layout_marginBottom="12dp" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="如有疑问，请联系鼠鼠：shutl@shu.edu.cn"
+            android:textSize="16sp"
+            android:lineSpacingExtra="4dp"
+            android:textColor="#333333"
+            android:layout_marginBottom="24dp" />
+
+        <!-- 更新日志标题 -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="更新日志"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="#000000"
+            android:layout_marginBottom="12dp" />
+
+        <!-- 更新日志内容 -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="版本 1.0.0 - 2024/11/12\n- 初始构建，核心功能实现\n\n版本 1.1.0 - 2024/11/16\n- 安卓平台发布"
+            android:textSize="16sp"
+            android:lineSpacingExtra="6dp"
+            android:textColor="#333333" />
+
+    </LinearLayout>
+</ScrollView>
