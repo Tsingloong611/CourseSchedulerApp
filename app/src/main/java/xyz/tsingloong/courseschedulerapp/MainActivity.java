@@ -17,6 +17,7 @@ import android.widget.Toast;
 import androidx.appcompat.app.AlertDialog;
 import androidx.appcompat.app.AppCompatActivity;
 
+import org.json.JSONException;
 import org.json.JSONObject;
 
 import xyz.tsingloong.courseschedulerapp.models.Course;
@@ -27,9 +28,13 @@ import xyz.tsingloong.courseschedulerapp.utils.Scheduler;
 import xyz.tsingloong.courseschedulerapp.utils.ToastUtils;
 
 import java.io.BufferedReader;
+import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
+import java.net.ConnectException;
 import java.net.HttpURLConnection;
+import java.net.MalformedURLException;
+import java.net.SocketTimeoutException;
 import java.net.URL;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -37,7 +42,7 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String UPDATE_URL = "https://<your_username>.github.io/AppUpdateInfo/version.json";
+    private static final String UPDATE_URL = "https://tsingloong611.github.io/CourseSchedulerApp/release/version.json";
 
     private LinearLayout courseInputContainer;
     private Button btnAddCourse, btnSubmit, btnViewLogs, btnAboutApp;
@@ -353,9 +358,9 @@ public class MainActivity extends AppCompatActivity {
 
                 // 解析 JSON
                 JSONObject jsonResponse = new JSONObject(jsonBuilder.toString());
-                String latestVersion = jsonResponse.getString("latest_version");
-                String downloadUrl = jsonResponse.getString("download_url");
-                String releaseNotes = jsonResponse.getString("release_notes");
+                String latestVersion = jsonResponse.getString("latestVersion");
+                String downloadUrl = jsonResponse.getString("downloadUrl");
+                String releaseNotes = jsonResponse.getString("releaseNotes");
 
                 // 比较版本号
                 runOnUiThread(() -> {
@@ -363,13 +368,31 @@ public class MainActivity extends AppCompatActivity {
                         // 显示更新对话框
                         showUpdateDialog(latestVersion, downloadUrl, releaseNotes);
                     } else {
-                        Toast.makeText(this, "已是最新版本", Toast.LENGTH_SHORT).show();
+                        ToastUtils.showCustomToast(this, "已是最新版本", R.drawable.ic_toast_icon);
                     }
                 });
+            } catch (MalformedURLException e) {
+                e.printStackTrace();
+                runOnUiThread(() -> ToastUtils.showCustomToast(this, "URL格式错误", R.drawable.ic_toast_icon));
+
+            } catch (ConnectException e) {
+                e.printStackTrace();
+                runOnUiThread(() -> ToastUtils.showCustomToast(this, "无法连接到网络", R.drawable.ic_toast_icon));
+
+            } catch (SocketTimeoutException e) {
+                e.printStackTrace();
+                runOnUiThread(() -> ToastUtils.showCustomToast(this, "连接超时，请稍候重试", R.drawable.ic_toast_icon));
+            } catch (IOException e) {
+                e.printStackTrace();
+                runOnUiThread(() -> ToastUtils.showCustomToast(this, "读取更新数据失败", R.drawable.ic_toast_icon));
+            } catch (JSONException e) {
+                e.printStackTrace();
+                runOnUiThread(() -> ToastUtils.showCustomToast(this, "解析更新数据失败", R.drawable.ic_toast_icon));
             } catch (Exception e) {
                 e.printStackTrace();
-                runOnUiThread(() -> Toast.makeText(this, "检查更新失败", Toast.LENGTH_SHORT).show());
+                runOnUiThread(() -> ToastUtils.showCustomToast(this, "检测更新失败", R.drawable.ic_toast_icon));
             }
+
         }).start();
     }
 

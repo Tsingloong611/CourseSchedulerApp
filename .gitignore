@@ -16,4 +16,7 @@ local.properties
 *.apk
 /build/
 /.idea/
+*.jks
+*.keystore
+app/release/
 
